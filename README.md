@@ -78,4 +78,6 @@ Prioritize security when using darknet platforms. Always use validated **Abacus 
 
 
 
-Update:  13 June 2025 link has been restored
+
+
+Update:  16.06.2025
