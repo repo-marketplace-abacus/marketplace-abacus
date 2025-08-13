@@ -104,4 +104,6 @@ Prioritize security when using darknet platforms. Always use validated **Abacus 
 
 
 
-Update:  04.08.2025 url is now clickable and accessible
+
+
+Update:  13.08.2025 Fixed dead link
